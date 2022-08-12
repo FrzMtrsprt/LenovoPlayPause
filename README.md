@@ -7,6 +7,6 @@ Map `Fn + F12` to Play / Pause key on Lenovo Laptops, with no flashing console w
 - Choose `Open Files`, and select `LenovoPlayPause.exe`
 
 ## Compilation
-`gcc play_pause.cpp -o play_pause.exe -mwindows`
+`gcc LenovoPlayPause.cpp -o LenovoPlayPause.exe -mwindows`
 
 The `-mwindows` parameter generates executables without console.
