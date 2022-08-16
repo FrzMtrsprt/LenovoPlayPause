@@ -1,0 +1,8 @@
+// Visual Studio configs
+.vs
+*.user
+
+// Visual Studio compilation directory
+Release
+x64
+x86
